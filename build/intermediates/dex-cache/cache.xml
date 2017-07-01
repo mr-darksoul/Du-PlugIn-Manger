@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5.1/77e5213b6ac5b323616a7bd283763bd60c0b3f6f/leakcanary-analyzer-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77e5213b6ac5b323616a7bd283763bd60c0b3f6f">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.5.1_18e32512ffd4cd30b0a2b8c15e3983c4bfb23630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1db5c3b65a1fd1830bfadad94b8dabf17329627e">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_15fa770d25849704632cc3c9ffb6079f2e5281d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.android/build-cache/093585092986bd86eb108ae830f6cefabda5edb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88fdd1a567b1fabe94c569b244e9f6a8b618e010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.android/build-cache/9fba25560622c12ba0dba2eec6c0fbea287cca3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3210e7cfcc755e9ea228ee2673ac6d1752bfc649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5.1/3d719b7e20a11415d409e6c29a34a643c560fc6f/leakcanary-watcher-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d719b7e20a11415d409e6c29a34a643c560fc6f">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.5.1_e85547fca746d4406cf2419a0d8e96077516d81a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f99d7a3e24ac94ecb6459abff79c4ba1b6b1018e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.android/build-cache/e68e0f167c89545b3aaccb7ef09133796be1e4c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4fbaa84da04e25bb7812592814026101d20dbc91">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c37da8835c7014e2cfe8799d5d9e2db41aef5e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.android/build-cache/d8c82bff916a028bbc3be6d6db05d64ba1498fae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b9a90a7def588f8413a98aef4fa00bf91f4b0dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manav/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/manav/Desktop/DuPlugInManager/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-2.0.3_ffc0b7a185982fde55ead7bea4d8cb1924408d00/classes.dex" />
+    </item>
+
+</items>
